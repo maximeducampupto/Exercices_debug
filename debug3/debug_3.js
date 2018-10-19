@@ -15,7 +15,6 @@ try {
     document.getElementById('divInconnuAuBataillon').innerHTML = "ttttttttttttttttt";
     alert('connue');
 } catch (e) {
-    console.log(e);
     alert('inconnue');
 }
 
