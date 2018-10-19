@@ -2,7 +2,7 @@
  * Created by sstienface on 15/10/2018.
  */
 
-var texte = document.getElementById('main').innerHTML = "test";
+document.getElementById('main').innerHTML = "test";
 
 var boucle = 0;
 while(boucle < 5)
